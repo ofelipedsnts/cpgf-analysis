@@ -1,0 +1,23 @@
+# Ambiente virtual
+.venv/
+
+# Dados brutos (arquivos grandes, não sobem pro git)
+data/raw/
+
+# Dados processados (gerados pelo código, não precisam subir)
+data/processed/
+
+# Variáveis de ambiente
+.env
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Checkpoints do Jupyter
+.ipynb_checkpoints/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
