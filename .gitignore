@@ -21,3 +21,6 @@ __pycache__/
 # Sistema operacional
 .DS_Store
 Thumbs.db
+
+# Documentação de contexto para agentes de IA
+.agents.md
